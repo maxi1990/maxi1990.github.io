@@ -1,0 +1,28 @@
+.card-group{
+    margin: 5em;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+.card-title{
+    font-family: Roboto light;
+}
+.precio-productos{
+    text-align: right;
+    color: #707070;
+    font-family: Roboto light;
+}
+.card-link{
+    color: #28A745;
+    font-family: Roboto medium;
+}
+.button{
+    color: black
+}
+.text-center{
+    color: #FFFFFF;
+    font-family: Roboto medium;
+}
+.cuppon-footer{
+    color: black;
+    font-family: roboto light;
+}
